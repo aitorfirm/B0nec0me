@@ -11,3 +11,15 @@ B0nec0me is a sophisticated modular stealer engineered specifically for Windows 
 - Utilizes HTTP(S) communication for efficient and reliable data transfer
 - Backend server implemented in Python with Flask framework
 - Supports asynchronous data sending and robust error handling
+
+# Features
+- ***Modular*** token extraction from Chromium-based and Firefox browsers
+- Retrieval of ***Discord*** tokens, including multi-factor authentication ***(MFA)** tokens
+- *Secure* extraction of stored browser passwords
+- Local cookie collection and session data ***harvesting**
+- Targeted file extraction from user directories (e.g., .`txt,` .`pdf`, .`docx`)
+- Automated data ***exfiltration*** using HTTP POST requests with WinHTTP
+- Centralized backend server with web interface for data management and monitoring
+- **Basic** authentication to secure administrative access
+- **Configurable** limits on data size and daily file uploads to ensure stability
+- Detailed logging and error handling mechanisms for operational transparency
