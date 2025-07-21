@@ -24,5 +24,26 @@ B0nec0me is a sophisticated modular stealer engineered specifically for Windows 
 - **Configurable** limits on data size and daily file uploads to ensure stability
 - Detailed logging and error handling mechanisms for operational transparency
 
-- **Build this Garbage**
--- hi
+# **Build this Garbage**
+Modify the settings you need in `src/config.cpp`, including the server URL, authentication credentials, and other parameters required for communication between the Agent and the backend server.
+
+**Default Server** Credentials:
+**Username:** admin
+**Password:** changeme123
+
+```ssh
+sudo apt install build-essential cmake
+mkdir -p build
+cd build
+cmake ..
+make
+```
+- The compilation process will generate the source files needed to create the agent executable. You must compile the generated source with a compatible C++ compiler on Windows to obtain the deployable agent binary.
+**Access the backend server interface:**
+Open a web browser and navigate to:
+
+```ssh
+http://your-server-ip:5000
+```
+
+Login using the default credentials above to manage collected data and bots.
