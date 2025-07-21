@@ -14,9 +14,9 @@ B0nec0me is a sophisticated modular stealer engineered specifically for Windows 
 
 # Features
 - ***Modular*** token extraction from Chromium-based and Firefox browsers
-- Retrieval of ***Discord*** tokens, including multi-factor authentication ***(MFA)** tokens
+- Retrieval of ***Discord*** tokens, including multi-factor authentication **(MFA)** tokens
 - *Secure* extraction of stored browser passwords
-- Local cookie collection and session data ***harvesting**
+- Local cookie collection and session data **harvesting**
 - Targeted file extraction from user directories (e.g., .`txt,` .`pdf`, .`docx`)
 - Automated data ***exfiltration*** using HTTP POST requests with WinHTTP
 - Centralized backend server with web interface for data management and monitoring
