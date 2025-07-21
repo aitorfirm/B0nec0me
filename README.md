@@ -23,3 +23,6 @@ B0nec0me is a sophisticated modular stealer engineered specifically for Windows 
 - **Basic** authentication to secure administrative access
 - **Configurable** limits on data size and daily file uploads to ensure stability
 - Detailed logging and error handling mechanisms for operational transparency
+
+- **Build this Garbage**
+-- hi
